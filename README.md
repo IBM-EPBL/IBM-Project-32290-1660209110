@@ -1,4 +1,4 @@
-<center><b>NEWS TRACKER</b></center>
+<center><b>NEWS TRACKER APPLICATION</b></center>
 <hr>
 
 <center>Web Application for reading News</center>
